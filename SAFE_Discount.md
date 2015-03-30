@@ -188,7 +188,7 @@ purposes of price-based anti-dilution protection, which will equal the
 Discount Price; and (ii) the basis for any dividend rights, which will
 be based on the Discount Price.
 
-“S**tandard Preferred Stock**” means the shares of a series of
+“**Standard Preferred Stock**” means the shares of a series of
 Preferred Stock issued to the investors investing new money in the
 Company in connection with the initial closing of the Equity
 Financing.
