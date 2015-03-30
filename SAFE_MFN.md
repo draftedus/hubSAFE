@@ -343,11 +343,11 @@ duly executed and delivered.
 
 By:
 
-[*name*]
+Name:
 
-[*title*]
+Title:
 
-Address: 
+Address:
 
 Email:
 
