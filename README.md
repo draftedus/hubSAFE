@@ -1,4 +1,9 @@
-**SAFE PRIMER **
+The purpose of this repository is to provide easier access and community contributions to the Simple Agreement for Future Equity (SAFE) documents originally from YCombinator.
+
+#Original YC SAFEs
+[YC Startup Docs Website](https://www.ycombinator.com/documents/ "YC Docs")
+
+#SAFE Primer
 
 A safe is a **S***imple* **A***greement for* **F***uture* **E***quity*. An
 investor makes a cash investment in a company, but gets company stock at a later
