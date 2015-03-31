@@ -1,3 +1,5 @@
+![SAFE: Simple Agreement for Future Equity](https://raw.github.com/draftedus/hubSAFE/assets/SAFE_ICON.png)
+
 The purpose of this repository is to provide easier access and community contributions to the Simple Agreement for Future Equity (SAFE) documents originally from YCombinator.
 
 #Original YC SAFEs
