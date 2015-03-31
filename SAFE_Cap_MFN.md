@@ -357,9 +357,7 @@ Securities.
 IN WITNESS WHEREOF, the undersigned have caused this instrument to be duly
 executed and delivered.
 
- 
-
-**[COMPANY]**
+**[COMPANY]:**
 
 By:
 
@@ -367,13 +365,11 @@ Name:
 
 Title:
 
-Address: 
+Address:
 
 Email:
 
- 
-
-**[INVESTOR]**
+**[INVESTOR]:**
 
 By:
 

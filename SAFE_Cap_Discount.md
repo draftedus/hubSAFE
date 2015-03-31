@@ -343,7 +343,7 @@ conflicts of law provisions of such jurisdiction.
 IN WITNESS WHEREOF, the undersigned have caused this instrument to be
 duly executed and delivered.
 
-[**COMPANY]**
+**[COMPANY]:**
 
 By:
 
@@ -355,7 +355,7 @@ Address:
 
 Email:
 
-**INVESTOR:**
+**[INVESTOR]:**
 
 By:
 

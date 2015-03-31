@@ -12,26 +12,25 @@ REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.  
 
 **(Simple Agreement for Future Equity)**
 
-THIS CERTIFIES THAT in exchange for the payment by [Investor Name]
-(the “**Investor**”) of $[_____________] (the “**Purchase Amount**”)
+THIS CERTIFIES THAT in exchange for the payment by \[Investor Name\] (the “**Investor**”) of $_____________ (the “**Purchase Amount**”)
 on or about [Date of Safe], [Company Name], a [State of Incorporation]
 corporation (the “**Company**”), hereby issues to the Investor the
 right to certain shares of the Company’s capital stock, subject to the
 terms set forth below.
 
-The “**Valuation Cap**” is $[_____________].  See **Section 2** for
+The “**Valuation Cap**” is $_____________.  See **Section 2** for
 certain additional defined terms.
 
 **1._Events_**
 
-(a)**Equity Financing**. If there is an Equity Financing before the
+**(a) Equity Financing**. If there is an Equity Financing before the
 expiration or termination of this instrument, the Company will
 automatically issue to the Investor either: 
 
-(1) a number of shares of Standard Preferred Stock equal to the
+(i) a number of shares of Standard Preferred Stock equal to the
 Purchase Amount divided by the price per share of the Standard
 Preferred Stock, if the pre-money valuation is less than or equal to
-the Valuation Cap; or (2) a number of shares of Safe Preferred Stock
+the Valuation Cap; or (ii) a number of shares of Safe Preferred Stock
 equal to the Purchase Amount divided by the Safe Price, if the
 pre-money valuation is greater than the Valuation Cap.
 
@@ -53,7 +52,7 @@ indemnification obligations on the part of the Investor; and
 Agreement, unless the Investor is already included in such rights in
 the transaction documents related to the Equity Financing.
 
-(b)**Liquidity Event**.  If there is a Liquidity Event before the
+**(b) Liquidity Event**.  If there is a Liquidity Event before the
 expiration or termination of this instrument, the Investor will, at
 its option, either (i) receive a cash payment equal to the Purchase
 Amount (subject to the following paragraph) or (ii) automatically
@@ -80,7 +79,7 @@ income tax purposes, and in such case, the Cash-Out Investors will
 automatically receive the number of shares of Common Stock equal to
 the remaining unpaid Purchase Amount divided by the Liquidity Price.
 
-(c)**Dissolution Event**. If there is a Dissolution Event before this
+**(c) Dissolution Event**. If there is a Dissolution Event before this
 instrument expires or terminates, the Company will pay an amount equal
 to the Purchase Amount, due and payable to the Investor immediately
 prior to, or concurrent with, the consummation of the Dissolution
@@ -98,14 +97,14 @@ with equal priority and _pro rata_ among the Dissolving Investors in
 proportion to the Purchase Amounts they would otherwise be entitled to
 receive pursuant to this Section 1(c). 
 
-(d)**Termination**.  This instrument will expire and terminate
+**(d) Termination**.  This instrument will expire and terminate
 (without relieving the Company of any obligations arising from a prior
 breach of or non-compliance with this instrument) upon either (i) the
 issuance of stock to the Investor pursuant to Section 1(a) or Section
 1(b)(ii); or (ii) the payment, or setting aside for payment, of
 amounts due the Investor pursuant to Section 1(b)(i) or Section 1(c).
 
-2.**_Definitions_**
+**2. Definitions**
 
 “**Capital Stock**” means the capital stock of the Company, including, without limitation, the “**Common Stock**” and the “**Preferred Stock**.”  
 
@@ -215,7 +214,7 @@ Preferred Stock issued to the investors investing new money in the
 Company in connection with the initial closing of the Equity
 Financing.
 
-3.**_Company Representations_**
+**3. Company Representations**
 
 (a)The Company is a corporation duly organized, validly existing and
 in good standing under the laws of the state of its incorporation, and
@@ -264,7 +263,7 @@ rights necessary for its business as now conducted and as currently
 proposed to be conducted, without any conflict with, or infringement
 of the rights of, others.
 
-4.**_Investor Representations_**
+**4. Investor Representations**
 
 (a)The Investor has full legal capacity, power and authority to
 execute and deliver this instrument and to perform its obligations
@@ -293,7 +292,7 @@ to incur a complete loss of such investment without impairing the
 Investor’s financial condition and is able to bear the economic risk
 of such investment for an indefinite period of time.
 
-5.**_Miscellaneous_**
+**5. Miscellaneous**
 
 (a)Any provision of this instrument may be amended, waived or modified
 only upon the written consent of the Company and the Investor.
@@ -351,7 +350,7 @@ conflicts of law provisions of such jurisdiction.
 IN WITNESS WHEREOF, the undersigned have caused this instrument to be
 duly executed and delivered.
 
-[**COMPANY]**
+**[COMPANY]:**
 
 By:
 
@@ -363,7 +362,7 @@ Address:
 
 Email:
 
-**INVESTOR:**
+**[INVESTOR]:**
 
 By:
 
