@@ -216,7 +216,7 @@ connection with the provision of goods or services pursuant to transactions and
 research, collaboration, technology license, development, OEM, marketing or
 other similar agreements or strategic partnerships.
 
- 3. “**MFN**” **Amendment Provision**. If the Company issues any Subsequent
+**3. “MFN” Amendment Provision**. If the Company issues any Subsequent
 Convertible Securities prior to the termination of this instrument, the Company
 will promptly provide the Investor with written notice thereof, together with a
 copy of all documentation relating to such Subsequent Convertible Securities
@@ -229,7 +229,7 @@ written notice from the Investor, the Company agrees to amend and restate this
 Safe to be identical to the instruments evidencing the Subsequent Convertible
 Securities.
 
-4.**Company Representations**
+**4. Company Representations**
 
 1.  (a) The Company is a corporation duly organized, validly existing and in good
     standing under the laws of the state of its incorporation, and has the power
@@ -274,7 +274,7 @@ Securities.
     its business as now conducted and as currently proposed to be conducted,
     without any conflict with, or infringement of the rights of, others.
 
-5.**Investor Representations**
+**5. Investor Representations**
 
 1.  (a) The Investor has full legal capacity, power and authority to execute and
     deliver this instrument and to perform its obligations hereunder. This
@@ -302,7 +302,7 @@ Securities.
     condition and is able to bear the economic risk of such investment for an
     indefinite period of time. 
 
-6.**Miscellaneous**
+**6. Miscellaneous**
 
 1.  (a) Any provision of this instrument may be amended, waived or modified only
     upon the written consent of the Company and the Investor.  

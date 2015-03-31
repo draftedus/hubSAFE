@@ -5,14 +5,13 @@ NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED, PLEDGED OR HYPOTHECATED EXCEPT AS
 PERMITTED UNDER THE ACT AND APPLICABLE STATE SECURITIES LAWS PURSUANT TO AN
 EFFECTIVE REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.  
 
-[**COMPANY NAME**]
+**[COMPANY NAME]**
 
-**SAFE **
+**SAFE**
 
 **(Simple Agreement for Future Equity)**
 
-THIS CERTIFIES THAT in exchange for the payment by [Investor Name] (the
-“**Investor**”) of \$[\_\_\_\_\_\_\_\_\_\_] (the “**Purchase Amount**”) on or
+THIS CERTIFIES THAT in exchange for the payment by \[Investor Name\] (the “**Investor**”) of \$\_\_\_\_\_\_\_\_\_\_ (the “**Purchase Amount**”) on or
 about [Date of Safe], [Company Name], a [State of Incorporation] corporation
 (the “**Company**”), hereby issues to the Investor the right to certain shares
 of the Company’s capital stock, subject to the terms set forth below. 
@@ -23,7 +22,7 @@ See **Section 2** for certain additional defined terms.
 
 **1. Events**
 
-(a) **Equity Financing**. If there is an Equity Financing before the
+**(a) Equity Financing**. If there is an Equity Financing before the
 expiration or termination of this instrument, the Company will
 automatically issue to the Investor a number of shares of Safe
 Preferred Stock equal to the Purchase Amount divided by the Discount
@@ -46,7 +45,7 @@ indemnification obligations on the part of the Investor; and 
 unless the Investor is already included in such rights in the transaction
 documents related to the Equity Financing.
 
-(b) **Liquidity Event**. If there is a Liquidity Event before the
+**(b) Liquidity Event**. If there is a Liquidity Event before the
 expiration or termination of this instrument, the Investor will, at
 its option, either (i) receive a cash payment equal to the Purchase
 Amount (subject to the following paragraph) or (ii) automatically
@@ -73,7 +72,7 @@ income tax purposes, and in such case, the Cash-Out Investors will
 automatically receive the number of shares of Common Stock equal to
 the remaining unpaid Purchase Amount divided by the Liquidity Price.
 
-(c) **Dissolution Event**. If there is a Dissolution Event before this
+**(c) Dissolution Event**. If there is a Dissolution Event before this
 instrument expires or terminates, the Company will pay an amount equal
 to the Purchase Amount, due and payable to the Investor immediately
 prior to, or concurrent with, the consummation of the Dissolution
@@ -91,14 +90,14 @@ with equal priority and *pro rata* among the Dissolving Investors in
 proportion to the Purchase Amounts they would otherwise be entitled to
 receive pursuant to this Section 1(c).
 
-(d) **Termination**.  This instrument will expire and terminate
+**(d) Termination**.  This instrument will expire and terminate
 (without relieving the Company of any obligations arising from a prior
 breach of or non-compliance with this instrument) upon either (i) the
 issuance of stock to the Investor pursuant to Section 1(a) or Section
 1(b)(ii); or (ii) the payment, or setting aside for payment, of
 amounts due the Investor pursuant to Section 1(b)(i) or Section 1(c).
 
-2. **Definitions**
+**2. Definitions**
 
 “**Capital Stock**” means the capital stock of the Company, including,
 without limitation, the “**Common Stock**” and the “**Preferred
@@ -193,7 +192,7 @@ Preferred Stock issued to the investors investing new money in the
 Company in connection with the initial closing of the Equity
 Financing.
 
- 3. **Company Representations**
+**3. Company Representations**
 
 (a) The Company is a corporation duly organized, validly existing and
 in good standing under the laws of the state of its incorporation, and
@@ -242,7 +241,7 @@ rights necessary for its business as now conducted and as currently
 proposed to be conducted, without any conflict with, or infringement
 of the rights of, others.
 
-4. **Investor Representations**
+**4. Investor Representations**
 
 (a) The Investor has full legal capacity, power and authority to
 execute and deliver this instrument and to perform its obligations
@@ -271,7 +270,7 @@ to incur a complete loss of such investment without impairing the
 Investor’s financial condition and is able to bear the economic risk
 of such investment for an indefinite period of time. 
 
-5. **Miscellaneous**
+**5. Miscellaneous**
 
 (a) Any provision of this instrument may be amended, waived or
 modified only upon the written consent of the Company and the

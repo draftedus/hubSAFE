@@ -8,7 +8,7 @@ REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.  
 
 **[Company Name]**
 
-**SAFE **
+**SAFE**
 
 **(Simple Agreement for Future Equity)**
 
