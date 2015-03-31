@@ -7,30 +7,30 @@ EFFECTIVE REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.  
 
 **[Company Name]**
 
-**SAFE **
+**SAFE**
 
 **(Simple Agreement for Future Equity)**
 
-THIS CERTIFIES THAT in exchange for the payment by [Investor Name] (the
-“**Investor**”) of \$[\_\_\_\_\_\_\_\_\_\_\_\_\_] (the “**Purchase Amount**”) on
+THIS CERTIFIES THAT in exchange for the payment by \[Investor Name\] (the
+“**Investor**”) of \$\_\_\_\_\_\_\_\_\_\_\_\_\_ (the “**Purchase Amount**”) on
 or about [Date of Safe], [Company Name], a [State of Incorporation] corporation
 (the “**Company**”), hereby issues to the Investor the right to certain shares
 of the Company’s capital stock, subject to the terms set forth below.
 
-The “**Valuation Cap**” is \$[\_\_\_\_\_\_\_\_\_\_\_\_\_].  See **Section 2**
-for certain additional defined terms.
+The “**Valuation Cap**” is \$\_\_\_\_\_\_\_\_\_\_\_\_\_.  See **Section 2** for
+certain additional defined terms.
 
 **1.Events**
 
-(a)**Equity Financing**. If there is an Equity Financing before the expiration
+**(a) Equity Financing**. If there is an Equity Financing before the expiration
 or termination of this instrument, the Company will automatically issue to the
 Investor either:
 
-1.  (1) a number of shares of Standard Preferred Stock equal to the Purchase
-    Amount divided by the price per share of the Standard Preferred Stock, if
-    the pre-money valuation is less than or equal to the Valuation Cap; or
+1.  a number of shares of Standard Preferred Stock equal to the Purchase Amount
+    divided by the price per share of the Standard Preferred Stock, if the
+    pre-money valuation is less than or equal to the Valuation Cap; or
 
-2.  (2) a number of shares of Safe Preferred Stock equal to the Purchase Amount
+2.  a number of shares of Safe Preferred Stock equal to the Purchase Amount
     divided by the Safe Price, if the pre-money valuation is greater than the
     Valuation Cap.
 
@@ -38,17 +38,17 @@ In connection with the issuance of Standard Preferred Stock or Safe Preferred
 Stock, as applicable, by the Company to the Investor pursuant to this Section
 1(a):
 
-1.  (i) The Investor will execute and deliver to the Company all transaction
+1.  The Investor will execute and deliver to the Company all transaction
     documents related to the Equity Financing; *provided,* that such transaction
     documents are the same documents to be entered into with the purchasers of
     the Standard Preferred Stock, with appropriate variations for the Safe
     Preferred Stock if applicable; 
 
-2.  (ii) The Investor and the Company will execute a Pro Rata Rights Agreement,
+2.  The Investor and the Company will execute a Pro Rata Rights Agreement,
     unless the Investor is already included in such rights in the transaction
     documents related to the Equity Financing.
 
-(b)**Liquidity Event**.  If there is a Liquidity Event before the expiration or
+**(b) Liquidity Event**.  If there is a Liquidity Event before the expiration or
 termination of this instrument, the Investor will, at its option, either (i)
 receive a cash payment equal to the Purchase Amount (subject to the following
 paragraph) or (ii) automatically receive from the Company a number of shares of
@@ -72,7 +72,7 @@ income tax purposes, and in such case, the Cash-Out Investors will automatically
 receive the number of shares of Common Stock equal to the remaining unpaid
 Purchase Amount divided by the Liquidity Price.
 
-(c)**Dissolution Event**. If there is a Dissolution Event before this instrument
+**(c) Dissolution Event**. If there is a Dissolution Event before this instrument
 expires or terminates, the Company will pay the Investor an amount equal to the
 Purchase Amount, due and payable to the Investor immediately prior to, or
 concurrent with, the consummation of the Dissolution Event. The Purchase Amount
@@ -90,14 +90,14 @@ would otherwise be entitled to receive pursuant to this Section 1(c). After the
 payment, or setting aside payment, to the Investor, this instrument will expire
 and terminate.
 
-(d)**Termination**.  This instrument will expire and terminate (without
+**(d) Termination**.  This instrument will expire and terminate (without
 relieving the Company of any obligations arising from a prior breach of or
 non-compliance with this instrument) upon either (i) the issuance of stock to
 the Investor pursuant to Section 1(a) or Section 1(b)(ii); or (ii) the payment,
 or setting aside for payment, of amounts due the Investor pursuant to Section
 1(b)(i) or Section 1(c).
 
-2.**Definitions**
+**2. Definitions**
 
 “**Change of Control**” means (i) a transaction or series of related
 transactions in which any “person” or “group” (within the meaning of Section
@@ -231,12 +231,12 @@ Securities.
 
 4.**Company Representations**
 
-1.  (a)The Company is a corporation duly organized, validly existing and in good
+1.  (a) The Company is a corporation duly organized, validly existing and in good
     standing under the laws of the state of its incorporation, and has the power
     and authority to own, lease and operate its properties and carry on its
     business as now conducted.
 
-2.  (b)The execution, delivery and performance by the Company of this instrument
+2.  (b) The execution, delivery and performance by the Company of this instrument
     is within the power of the Company and, other than with respect to the
     actions to be taken when equity is to be issued to the Investor, has been
     duly authorized by all necessary actions on the part of the Company. This
@@ -252,7 +252,7 @@ Securities.
     individually, or together with all such violations or defaults, could
     reasonably be expected to have a material adverse effect on the Company.
 
-3.  (c)The performance and consummation of the transactions contemplated by this
+3.  (c) The performance and consummation of the transactions contemplated by this
     instrument do not and will not: (i) violate the any material judgment,
     statute, rule or regulation applicable to the Company; (ii) result in the
     acceleration of any material indenture or contract to which the Company is a
@@ -261,13 +261,13 @@ Securities.
     suspension, forfeiture, or nonrenewal of any material permit, license or
     authorization applicable to the Company, its business or operations.
 
-4.  (d)No consents or approvals are required in connection with the performance
+4.  (d) No consents or approvals are required in connection with the performance
     of this instrument, other than: (i) the Company’s corporate approvals; (ii)
     any qualifications or filings under applicable securities laws; and (iii)
     necessary corporate approvals for the authorization of any shares of capital
     stock of the Company issued pursuant to Section 1.
 
-5.  (e)To its knowledge, the Company owns or possesses (or can obtain on
+5.  (e) To its knowledge, the Company owns or possesses (or can obtain on
     commercially reasonable terms) sufficient legal rights to all patents,
     trademarks, service marks, trade names, copyrights, trade secrets, licenses,
     information, processes and other intellectual property rights necessary for
@@ -276,7 +276,7 @@ Securities.
 
 5.**Investor Representations**
 
-1.  (a)The Investor has full legal capacity, power and authority to execute and
+1.  (a) The Investor has full legal capacity, power and authority to execute and
     deliver this instrument and to perform its obligations hereunder. This
     instrument constitutes valid and binding obligation of the Investor,
     enforceable in accordance with its terms, except as limited by bankruptcy,
@@ -284,7 +284,7 @@ Securities.
     enforcement of creditors’ rights generally and general principles of
     equity. 
 
-2.  (b)The Investor is an accredited investor as such term is defined in
+2.  (b) The Investor is an accredited investor as such term is defined in
     Rule 501 of Regulation D under the Securities Act. The Investor has been
     advised that this instrument and the underlying securities have not been
     registered under the Securities Act, or any state securities laws and,
@@ -304,10 +304,10 @@ Securities.
 
 6.**Miscellaneous**
 
-1.  (a)Any provision of this instrument may be amended, waived or modified only
+1.  (a) Any provision of this instrument may be amended, waived or modified only
     upon the written consent of the Company and the Investor.  
 
-2.  (b)Any notice required or permitted by this instrument will be deemed
+2.  (b) Any notice required or permitted by this instrument will be deemed
     sufficient when delivered personally or by overnight courier or sent by
     email to the relevant address listed on the signature page, or 48 hours
     after being deposited in the U.S. mail as certified or registered mail with
@@ -315,7 +315,7 @@ Securities.
     address listed on the signature page, as subsequently modified by written
     notice.
 
-3.  (c)The Investor is not entitled, as a holder of this instrument, to vote or
+3.  (c) The Investor is not entitled, as a holder of this instrument, to vote or
     receive dividends or be deemed the holder of the Company’s capital stock for
     any purpose, nor will anything contained herein be construed to confer upon
     the Investor, as such, any of the rights of a stockholder of the Company or
@@ -325,7 +325,7 @@ Securities.
     subscription rights or otherwise until shares have been issued upon the
     terms as described herein.
 
-4.  (d)Neither this instrument nor the rights contained herein may be assigned,
+4.  (d) Neither this instrument nor the rights contained herein may be assigned,
     by operation of law or otherwise, by either party without the prior written
     consent of the other; *provided, however*, that the rights of the Investor
     may be assigned without the Company’s consent by the Investor to any other
@@ -338,7 +338,7 @@ Securities.
     assign this instrument in whole, without the consent of the Investor, in
     connection with a reincorporation to change the Company’s domicile.  
 
-5.  (e)In the event any one or more of the provisions of this instrument is for
+5.  (e) In the event any one or more of the provisions of this instrument is for
     any reason held to be invalid, illegal or unenforceable, in whole or in part
     or in any respect, or in the event that any one or more of the provisions of
     this instrument operate or would prospectively operate to invalidate this
@@ -348,7 +348,7 @@ Securities.
     operative and in full force and effect and will not be affected, prejudiced,
     or disturbed thereby. 
 
-6.  (f)All rights and obligations hereunder will be governed by the laws of the
+6.  (f) All rights and obligations hereunder will be governed by the laws of the
     State of [Governing Law Jurisdiction], without regard to the conflicts of
     law provisions of such jurisdiction.
 
